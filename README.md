@@ -1,3 +1,3 @@
 # COMPUTER NETWORKS LAB.  
-THIS REPOSITORY CONTAINS THE PDF FILE OF MY PROGRAMS FOR CYCLE2 OF COMPUTER NETWORKS LABORATORY COMPONENT OF MY 5TH SEMESTER.  
+This repository contains the pdf file of my programs for cycle 2 of Computer Networks Laboratory componenet of my 5th Semester.   
 To open the PDF, please go to **_Lab_report_** directory
